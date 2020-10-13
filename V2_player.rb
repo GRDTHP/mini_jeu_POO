@@ -82,13 +82,6 @@ class HumanPlayer < User
 end 
 
 
-#J1 = HumanPlayer.new("guillaume")
-
-#J1.search_weapon
-#J1.weapon_level
-#J1.search_weapon
-#J1.weapon_level
-
 
 #l'interface du jeu 
     
