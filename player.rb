@@ -58,5 +58,3 @@
 
 
 #binding.pry
-
-# Desktop\programation\POO\mini_jeu_POO\lib
