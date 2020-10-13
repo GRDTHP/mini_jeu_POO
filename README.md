@@ -1,1 +1,1 @@
-# mini_jeu_POO
+il s'agit d'un jeu vidéo gérer par les fichier player en fonction de la version voulu. 
